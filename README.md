@@ -7,11 +7,8 @@ It automatically analyzes web application components and predicts potential thre
 
 ## 📺 Demo Video
 
-👉 [Click here to watch the working demo](YOUR_VIDEO_LINK)  
+👉 [Click here to watch the working demo]([YOUR_VIDEO_LINK](https://drive.google.com/file/d/13DAYVOa8tqF5fFZgy1xQ1DgcPA17eZky/view?usp=drive_link))  
 
-Or, if hosted on YouTube:  
-
-[![Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ---
 
