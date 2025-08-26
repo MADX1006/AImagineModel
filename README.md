@@ -7,8 +7,6 @@ It automatically analyzes web application components and predicts potential thre
 
 ## 📺 Demo Video
 
-## 📺 Demo Video
-
 👉 [Click here to watch the working demo](https://drive.google.com/file/d/13DAYVOa8tqF5fFZgy1xQ1DgcPA17eZky/view?usp=drive_link)
 
 ---
